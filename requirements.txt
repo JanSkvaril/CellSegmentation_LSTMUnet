@@ -1,0 +1,6 @@
+pandas
+Pillow
+matplotlib
+tqdm
+ipywidgets
+scikit-image
